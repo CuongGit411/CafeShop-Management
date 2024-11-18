@@ -1,0 +1,8 @@
+------- HÓA ĐƠN KIỂM TRA -------
+Bàn: Bàn không hợp lệ
+Ngày: 2024-11-09T12:24:05.933691300
+
+STT   Tên đồ uống          Giá        Số lượng   Thành tiền
+
+Tổng tiền: 0 VND
+-----------------------
